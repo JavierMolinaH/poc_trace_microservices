@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+# OpenTelemetry
+opentelemetry-api
+opentelemetry-sdk
+# opentelemetry-exporter-google-cloud
+opentelemetry-exporter-gcp-trace
+opentelemetry-instrumentation-fastapi
+opentelemetry-instrumentation-requests
+
+# Logging
+google-cloud-pubsub
+google-cloud-compute
+google-cloud-storage
+google-cloud-logging
+python-json-logger
